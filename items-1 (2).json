@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "639763a65eba5ad5c94d9ad2"
+  },
+  "category": "Black Pink",
+  "title": "Born pink",
+  "imageurl": "https://www.picclickimg.com/qboAAOSwOVtjOfDv/Blackpink-Born-Pink-Album-Pink-Version.jpg",
+  "details": "Born Pink is the second studio album by South Korean girl group Blackpink, released on September 16, 2022, through YG Entertainment and Interscope Records. It marked the groups first full-length record since the Album in 2020.",
+  "author": {
+    "$oid": "639762735eba5ad5c94d9ac9"
+  },
+  "status": "Available",
+  "offerItem": "",
+  "Saved": false,
+  "Offered": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670865830666"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670865830666"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639764fb5eba5ad5c94d9ad7"
+  },
+  "category": "Black Pink",
+  "title": "The Album",
+  "imageurl": "https://daebak.tokyo/wp-content/uploads/2020/08/blackpink-5.jpg",
+  "details": "Black pink released their 1st full album (with 8 songs) titled The Album on October 2, 2020.",
+  "author": {
+    "$oid": "639762735eba5ad5c94d9ac9"
+  },
+  "status": "Available",
+  "offerItem": "",
+  "Saved": false,
+  "Offered": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670866171202"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670867091022"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6397657f5eba5ad5c94d9add"
+  },
+  "category": "BTS",
+  "title": "Love Yourself",
+  "imageurl": "https://kuroneko.lt/wp-content/uploads/2020/10/BTS-tear2.jpg",
+  "details": "Love Yourself is the fifth mini album by BTS. It was released on September 18, 2017 with DNA serving as the album title track.",
+  "author": {
+    "$oid": "639762735eba5ad5c94d9ac9"
+  },
+  "status": "Available",
+  "offerItem": "",
+  "Saved": false,
+  "Offered": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670866303635"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670866303635"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639768f75eba5ad5c94d9b2e"
+  },
+  "category": "BTS",
+  "title": "Proof",
+  "imageurl": "https://i5.walmartimages.com/asr/5ea905f3-d335-4e97-8032-92070eba6714.20e792e5a4543fcbafdb9d2c1ae538b7.jpeg",
+  "details": "Proof album is the first anthology album released by South Korean group BTS, on June 10, 2022, through Big Hit Music.",
+  "author": {
+    "$oid": "639766675eba5ad5c94d9aee"
+  },
+  "status": "Available",
+  "offerItem": "",
+  "Saved": false,
+  "Offered": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670867191159"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670867191159"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639769735eba5ad5c94d9b36"
+  },
+  "category": "BTS",
+  "title": "Face Yourself",
+  "imageurl": "https://kpopowo.pl/wp-content/uploads/2019/07/2-166-768x768.jpg",
+  "details": "Face Yourself is the third Japanese studio album by South Korean boy band BTS released on April 4, 2018, through Universal Music Japan and Def Jam Recordings.",
+  "author": {
+    "$oid": "639766675eba5ad5c94d9aee"
+  },
+  "status": "Available",
+  "offerItem": "",
+  "Saved": false,
+  "Offered": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670867315237"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670867315237"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639769b75eba5ad5c94d9b39"
+  },
+  "category": "Black Pink",
+  "title": "Kill This Love",
+  "imageurl": "http://www.gasookpopgalore.net/image/cache/data/product/CD18/Blackpink%20-%20Kill%20This%20Love%202-vert-600x600.jpg",
+  "details": "Kill This Love is the second Korean-language extended play by South Korean girl group Blackpink, released on April 5, 2019, by YG Entertainment.",
+  "author": {
+    "$oid": "639766675eba5ad5c94d9aee"
+  },
+  "status": "Available",
+  "offerItem": "",
+  "Saved": false,
+  "Offered": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670867383569"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670867383569"
+    }
+  },
+  "__v": 0
+}]
